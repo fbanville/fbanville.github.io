@@ -1,4 +1,4 @@
 baseURL = 'https://fbanville.github.io
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr-ca'
+title = 'Mes projets'
 theme = 'ananke'
