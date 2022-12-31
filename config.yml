@@ -6,15 +6,12 @@ theme: 'PaperMod'
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: about
       name: about
       url: about/
-      weight: 30
+    - identifier: meubles
+      name: meubles
+      url: /tags/meuble
+    - identifier: roadtrips
+      name: road trips
+      url: /tags/roadtrip
