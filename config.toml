@@ -1,5 +1,0 @@
-baseURL = 'https://fbanville.github.io'
-languageCode = 'fr-ca'
-title = 'Mes projets'
-#theme = 'ananke'
-theme = 'PaperMod'
